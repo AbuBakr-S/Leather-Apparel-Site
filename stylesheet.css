@@ -1,0 +1,24 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    margin: -30px;
+}
+
+.section-light {
+    background-color: #ECEEEF;
+    padding: 2em;
+}
+
+/*Use media queries to resize images in carousel. At smaller breakpoints, resize to 70%, XS to 50%*/
+
+footer.footer-home {
+    background-color: #343a40;;
+}
+
+footer.footer-home a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+    text-align: center;
+    padding: 20px 0;
+}
